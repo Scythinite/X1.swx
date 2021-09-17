@@ -1,0 +1,17 @@
+when[run=fortnite.exe]:load
+
+			   when.on.launch/loadpyidle.exe
+			start.BuildOrMine@X1.exe
+	"launcher.py = 0"
+		swinnX.loader{luafalse(swx.filecreate.launch[py.null]nulllaunch.swx)launcher.X1}
+1%
+5%
+10%
+15%
+20%
+25%
+35%
+55%
+70%
+100%
+		loaded.createlog

@@ -1,0 +1,6 @@
+alert("$&Project X1 has been executed&$"){
+
+	run;X1.jar/XMP(XMP((MB{12G}MB))
+		createfiles"X1"game.exe/executable".jar
+
+		doubleclick.launch32

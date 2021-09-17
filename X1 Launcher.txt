@@ -1,0 +1,5 @@
+run("start")("load.run/config");
+		when_config_create = launch.on
+	run-swinnXhax{launcher.true};
+
+		project;1launcher
